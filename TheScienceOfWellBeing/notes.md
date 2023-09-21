@@ -60,3 +60,17 @@ Miswanting: The act of being mistaken about what and how much you will like some
     * Interrupt your consumption: Don't dive in to the stuff you enjoy in one go, but take one piece at a time -> add interruptions in between. For example, people tend to be enjoying their favorite shows more when there are advertisements in between. For bad things, squish them all together for hedonic adaption.
     * Variety is the spice of life: Doing things a little more variably will change our reference points
 
+### Week #4: What really makes us happy
+- "Miswanting" - We want the wrong things. Are there things that we should be wanting that we don't usually realise?
+    - Better Wanting #1: Wanting the right parts of the things we already want
+        - What factors should we seek in a job?
+            - Roles that leverage or capitalize on one's signature strengths - signature strengths are one's own character strengths that we value about our personality and tend to make us feel authentic and engaged. There is a standard classification of 24 Character Strengths by some researchers and the survey in the beginning helps us identify our current character strengths. When we employ our character strengths in different ways at work, our job/career seem to feel more fulfilling, more like a calling than work.
+            - Roles that tend to increasae "flow". Flow is a mental state where one is fully involved, focused, energized and immersed in an activity. Features of flow include:
+                - Challenging yet attainable goal
+                - Strong focus concentration
+                - The activity is intrinsically rewarding
+                - Loss of self-consciousness and feelings of serenity
+                - Loss of the sense of time
+                - Complete focus on the activity itself.
+            The state of flow tend to be reaches when we feel both challenged and get to apply well-developed skills in a meaningful way. They find in some research that people tend to prefer leisure time over work, yet during leisure time, they have often feelings of apathy and boredom, rather than self-confidence/efficacy, pointing to a clear disconnect. It might be worthwhile to rethink the leisure activities we engage in and perhaps choose something a bit more challenging or something that develops a skill we enjoy.
+    - Better Wanting #2: Wanting stuff we don't current want
