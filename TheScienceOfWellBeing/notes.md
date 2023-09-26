@@ -1,4 +1,4 @@
-### Week #1:
+### Week #1: Happiness can be learned
 - We have a lot of solid science to support the habits and behaviors that we will learn in this course.
 - Knowing is NOT half the battle.
 - Surveys to establish the current level of happiness and strengths
@@ -16,7 +16,7 @@
 - Actually genes or circumstances don't make much of a difference as we think - 50% genes, 10% circumstances, 40% attitude
 
 
-### Week #3: 
+### Week #3: Why our expectations so bad?   
 Our minds trick us:
 - We are often wrong about what and how happy some things will make us.
 Miswanting: The act of being mistaken about what and how much you will like something in the future.
@@ -25,7 +25,7 @@ Miswanting: The act of being mistaken about what and how much you will like some
 - Impact Bias - We tend to overestimate the emotional impact of a future event both in terms of intensity and its duration. We don't seem to get better at predicting our own reaction to things with more experience.
 - Why are we so bad at predicting how we will feel? Why don't we learn how resilient we are? Focalism - The tendency to think about just one event and forget about the other things that happen; and Immune Neglect - Unawareness of our "psychological immune system", i.e., our tendency to adapt to and cope with negative events.
 
-### Week #3: EFFORTFUL and INTENTIONAL Strategies
+### Week #4: EFFORTFUL and INTENTIONAL Strategies to overcome our biases
 - Spend on experiences over material things, they are by definition temporary and the mind can't get used to it. Thinking about a future planned experience is also more pleasant and filled with excitement than a planned future purchase. Talking about experiences makes us more likeable than if we were to talk about things we bought/own.
 - How to thwarth Hedonic Adaptation
     - Savor your experience while you're having it.
@@ -60,7 +60,7 @@ Miswanting: The act of being mistaken about what and how much you will like some
     * Interrupt your consumption: Don't dive in to the stuff you enjoy in one go, but take one piece at a time -> add interruptions in between. For example, people tend to be enjoying their favorite shows more when there are advertisements in between. For bad things, squish them all together for hedonic adaption.
     * Variety is the spice of life: Doing things a little more variably will change our reference points
 
-### Week #4: What really makes us happy
+### Week #5: What really makes us happy
 - "Miswanting" - We want the wrong things. Are there things that we should be wanting that we don't usually realise?
     - Better Wanting #1: Wanting the right parts of the things we already want
         - What factors should we seek in a job?
@@ -73,4 +73,23 @@ Miswanting: The act of being mistaken about what and how much you will like some
                 - Loss of the sense of time
                 - Complete focus on the activity itself.
             The state of flow tend to be reaches when we feel both challenged and get to apply well-developed skills in a meaningful way. They find in some research that people tend to prefer leisure time over work, yet during leisure time, they have often feelings of apathy and boredom, rather than self-confidence/efficacy, pointing to a clear disconnect. It might be worthwhile to rethink the leisure activities we engage in and perhaps choose something a bit more challenging or something that develops a skill we enjoy.
+        - What about "good grades"?
+            - Extrinsic motivation VS intrinsic motivation: Learning is a human need at least some point, but extrinsic motivators seem to have the capacity to diminish the intrinsic motivation. Don't focus on Grades, but learning. A focus on grades can also undermine the "Growth Mindset", which means that intelligence/skills can be learned and improved with effort and time (as compared to "Fixed Mindset" where we believe that we simply have some innate abilities or traits). Fixed Mindset people consider "effort" as negative ("If I have to work, then I am not smart."), but Growth Mindset people "effort" as good, as a sign that they are learning or getting better. In study, they observed that students with Fixed Mindset focus on whether or not their answer on a test is correct or not, and students with Growth Mindset focus on the correct answers, as in, the content. Thankfully, we can also learn the Growth Mindset.
+            - Extrinsic motivators can undermine the simple joy of learning, we should focus on that as well as developing a growth mindset.
     - Better Wanting #2: Wanting stuff we don't current want
+        - Kindness: We should seek out opportunities to act kindly to others. Money spent on others makes us happier than spending on ourselves, there are a few studies about that. So when you have a bad day, you might have the impulse to treat yourself, get a pedicure, etc. but donate to a charity, or buy a friend a pedicure. ;)
+        - Social Connection: People will close social ties are:
+            - Less vulnerable to premature death
+            - More likely to survive fatal illnesses
+            - Less likely to fall prey to stressful events
+        A social connection can be anything from making eye contact or smiling to people to having a long-term romantic relationship. Even random connections - talking to strangers boosts our mental health, even though we tend to predict that solitude and being by ourselves would be the best condition, and in fact we guess that talking to strangers will make us unhappier.
+        Researchers are finding that experiences and our perceptions seem to change when we have other people around it. In a study, they found that people found a chocolate tastier when they did it with another person, although silently.
+        Very interesting interview as part of the course: https://www.coursera.org/lecture/the-science-of-well-being/interview-with-nicholas-epley-x4U9I
+    - Better Wanting #3:
+        - Time Affluence: Time affluence is the idea of having enough of time to do the things that you want to do (including doing nothing) without feeling strapped for time. The researchers have found that people who prioritise time over money tend to happier.
+        - Mind Control:  Mind-wandering is a phenomenon in which you're shifting the contents of your thought away from whatever task you have ongoing and to event and from events in the external environment, so the things in your here and now to other self generated thoughts and feelings often things that are not in the here and now. The ability to think about what is not happening is a cognitive achievement that comes at an emotional cost - a wandering mind is an unhappy mind. Regular and long meditation practice can curb mind-wandering and its effects stay beyond the meditation sessions too. It also makes us like and wish other people around us more. 
+        - Healthier Practices:
+            - Exercise
+            - Sleep - Lack of enough sleep also makes our physical and emotional complaints sky-rocket. Sleep also improves learning. A lot of the health effects discussed in the book `Why We Sleep` are mentioned too.
+
+### Week #6: 
