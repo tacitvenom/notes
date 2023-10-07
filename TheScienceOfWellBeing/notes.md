@@ -92,4 +92,14 @@ Miswanting: The act of being mistaken about what and how much you will like some
             - Exercise
             - Sleep - Lack of enough sleep also makes our physical and emotional complaints sky-rocket. Sleep also improves learning. A lot of the health effects discussed in the book `Why We Sleep` are mentioned too.
 
-### Week #6: 
+### Week #6: Strategies for better habits
+- Situation Support: Design the environment such that the tempting bad habits are "far". 
+- Goal Setting:
+    - Goal Visualisation: Having goals and imagining one reaching the goal is definitely very effective, but it is only half the story.
+    - "Mental Contrasting" (a visualization technique involving first thinking of a positive future outcome followed by thinking of obstacle): This approach is even more effective.
+    - Goal Planning: "Implementation Intentions" (A self- regulatory strategy in the form of an "if-then" plan that can lead to better goal attainment). Our control circuitry reacts well to that level of specificity and can lead to habit change. 
+    - All these strategies together are called "WOOP" (Wish-Outcome-Obstacles-Plan):
+        - Think about your WISH
+        - The best OUTCOME
+        - Potential OBSTACLES
+        - Your If/Then PLAN
