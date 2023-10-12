@@ -14,3 +14,8 @@ I really realted too well with the words here on multiple counts:
     - > Haste is universal because everyone is in flight from himself.
 
 #### Chapter 2
+The author goes on for many pages about the same theme that the idea of getting and more done just gets more stuff to do. This is true for all levels, and had been a theme for humanity for quite some decades/centuries.
+- What I found interesting is that there was an idea that when people believed in an afterlife, the pressure to make the best out of *this* life is essentially absent. True, we atheists/agnostics seculars, we can't really count on the glorious afterlife.
+- We should instead strive for learning to stay with the anxiety of feeling overwhelmed.
+
+
