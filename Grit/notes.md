@@ -1,7 +1,13 @@
 ## Part 1: What Grit is and why it matters?
 #### Chapter 1: Showing up
+- Grit is mutable
+- Grit is more important than talent
+- Grit is essentially perseverance towards goal(s) one is passionate about
+- With the [Grit scale](https://angeladuckworth.com/grit-scale/) that the author developed seems to be the strongest predictor of success in comparison to any other attempt so far.
 
 #### Chapter 2: Distracted by talent
+- We hear often since childhood about being a "natural" in certain areas, but neither in her own experience nor in research is talent a "reliable" predictor of accomplishment in the same areas one presumably "gifted" in. What really often is consistent and prolonged effort.
+- Even though most people surveyed valued hard-working qualities more than intelligence; in an experiment, they show a bias for talent. Inadvertently we seem to value talent more than we like to believe/admit, even to ourselves.
 
 #### Chapter 3: Effort counts twice
 
