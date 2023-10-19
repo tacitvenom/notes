@@ -10,6 +10,12 @@
 - Even though most people surveyed valued hard-working qualities more than intelligence; in an experiment, they show a bias for talent. Inadvertently we seem to value talent more than we like to believe/admit, even to ourselves.
 
 #### Chapter 3: Effort counts twice
+- There are a lot of things that contribute to achievement like dumb luck, or mentors, etc. If we were to look at the psychology of accomplishment, the author summarizes it in two equations:
+    - Talent * Effort = Skill, and
+    - Skill * Effort = Achievement.
+- Even though, talent can be very important, but effort counts more, in fact, as much as twice according to the author.
+- The distinction between talent and skill is often missed, according to the author. Talent simply unfulfilled potential, and only with effort, it CAN become a skill. She argues that someone twice as talented but who puts half as much effort can't simply achieve as much (all else being same).
+- Following through on your goals, keeping at it, putting effort even on bad days is an integral part of grit.
 
 #### Chapter 4: How gritty are you?
 - Grit is more about stamina than it is about intensity.
