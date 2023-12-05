@@ -25,16 +25,36 @@
 - Goal conflict is imminent but such a structure helps weigh in the choices and opportunity costs. This also helps us decide which goals are not worth pursuing, even though we still pursue the corresponding mid-level or top-level goals.
 
 ### Chapter 5: Grit grows
-- 
+- Is grit heritable? She says possibly, there is no single gene that explains it and it could be like most qualities which are explained by hundreds and thousands of genes. On top of that, the influence of nurture trumps the influence of nature with examples of height and IQ, both of which have increased significantly in the population within a short period.
+- Among different age groups, Grit also seems to increase with age. This is of course, a snapshot of time and it could be that some generational changes influenced the lower scores for younger adults, but it could also be that as we gain more life experience, we also develop resilience, allowing us to tackle any obstacles that come our way. We learn to rise to occasion when confronted by challenges.
+- If you'd like to be more gritty, find out where you are on the Grit scale and ask yourself why? The grittiest folks have:
+    - (intrinsic) interest
+    - practice - always trying to improve even when one could be labelled as an expert
+    - purpose - interest without purpose is almost impossible to sustain
+    - hope
 
 ## Part 2: Growing Grit from the inside out
 ### Chapter 6: Interest
+- Most people feel more fulfilled and try harder at work when they enjoy it.
+- Most young people don't have a passion to pursue in the first place, so they should try to foster a passion.
+- Passion for your work is a little bit of discovery, followed by a lot of development, and then a lifetime of deepening.
+- Interests are not discovered by introspection, but by exposure and see what sticks.
+- Before hard work comes play, we can't force an interest. A degree of autonomy during the early years is also important. Shortcutting this playful interest, discovery and development can have dire consequences.
+- Some questions to guide the process of learning about your interests:
+    - What do I like to think about?
+    - Where does my mind wander?
+    - What do I really care about?
+    - What matters the most to me?
+    - How do I enjoy spending my time?
+    - And, in contrast, what do I find absolutely unbearable?
+- Experiment, experiment, experiment to see what sticks!
 
 ### Chapter 7: Practice
 - Flow VS Effortful Practice: Both
 
 ### Chapter 8: Purpose
 - Create a list of your goals and cluster them together to find high-level as well low-level goals.
+
 ### Chapter 9: Growth Mindset/Hope
 - Growth Mindset -> Optimistic Self-talk -> Perseverance in the face of adversity
 
