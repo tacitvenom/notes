@@ -14,14 +14,18 @@
     - Talent * Effort = Skill, and
     - Skill * Effort = Achievement.
 - Even though, talent can be very important, but effort counts more, in fact, as much as twice according to the author.
-- The distinction between talent and skill is often missed, according to the author. Talent simply unfulfilled potential, and only with effort, it CAN become a skill. She argues that someone twice as talented but who puts half as much effort can't simply achieve as much (all else being same).
+- The distinction between talent and skill is often missed, according to the author. Talent is simply unfulfilled potential, and only with effort, it CAN become a skill. She argues that someone twice as talented but who puts half as much effort can't simply achieve as much (all else being same).
 - Following through on your goals, keeping at it, putting effort even on bad days is an integral part of grit.
 
 #### Chapter 4: How gritty are you?
-- Grit is more about stamina than it is about intensity.
+- Here she offers the questionnaire that she has extensively used for measuring Grit.
+- Grit is more about stamina than it is about consistency over time.
 - Grit = Passion + Perseverence
+- Another interesting idea was the heirarchy of goals that one pursues - we can have "smaller" goals like acing a test, improving our understanding of a topic, with an overarching goal of becoming knowledgeable in a field, with an overarching goal of making the world a better place, etc. We can also cluster these goals to arrive at the top-level goals. And it is important to have the vision of the end goals(s), which should be 1-2 - maybe one related to career and another related to personal life.
+- Goal conflict is imminent but such a structure helps weigh in the choices and opportunity costs. This also helps us decide which goals are not worth pursuing, even though we still pursue the corresponding mid-level or top-level goals.
 
 ### Chapter 5: Grit grows
+- 
 
 ## Part 2: Growing Grit from the inside out
 ### Chapter 6: Interest
