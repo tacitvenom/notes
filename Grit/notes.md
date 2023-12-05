@@ -50,7 +50,14 @@
 - Experiment, experiment, experiment to see what sticks!
 
 ### Chapter 7: Practice
-- Flow VS Effortful Practice: Both
+- Not just about more time on task, but also better time at task, i.e., not just repeating something, but repeating it while trying to improve and/or with a goal. This means the practice may be more effortful and less enjoyable.
+- Gritty people not just have more effortful practice but also more flow states which are spontaneous highly enjoyable seemingly effortless states, where they feel challenged to the edge of their abilities and are also applying their already acquired skills.
+- Flow is an experience VS "Effortful/Deliberate" Practice is a behavior.
+- Requirements of deliberate practice and then make it a habit:
+    - A clearly defined stretch goal
+    - Full concentration and effort
+    - Immediate and informative feedback
+    - Repetition with reflection and refinement
 
 ### Chapter 8: Purpose
 - Create a list of your goals and cluster them together to find high-level as well low-level goals.
