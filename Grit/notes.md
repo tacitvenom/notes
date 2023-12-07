@@ -22,6 +22,7 @@
 - Grit is more about stamina than it is about consistency over time.
 - Grit = Passion + Perseverence
 - Another interesting idea was the heirarchy of goals that one pursues - we can have "smaller" goals like acing a test, improving our understanding of a topic, with an overarching goal of becoming knowledgeable in a field, with an overarching goal of making the world a better place, etc. We can also cluster these goals to arrive at the top-level goals. And it is important to have the vision of the end goals(s), which should be 1-2 - maybe one related to career and another related to personal life.
+- Exercise: Create a list of your goals and cluster them together to find high-level as well low-level goals.
 - Goal conflict is imminent but such a structure helps weigh in the choices and opportunity costs. This also helps us decide which goals are not worth pursuing, even though we still pursue the corresponding mid-level or top-level goals.
 
 ### Chapter 5: Grit grows
@@ -60,7 +61,15 @@
     - Repetition with reflection and refinement
 
 ### Chapter 8: Purpose
-- Create a list of your goals and cluster them together to find high-level as well low-level goals.
+- Having an interest in something and putting in effort is one thing, but most gritty people find it all worth it because their efforts pay dividends to other people. They find it something bigger than themselves - the intention to contribute to the well-being of others. Having a purpose is a tremendously powerful source of motivation.
+- She also mentions a parable about asking three bricklayers what they are doing. One of them replied, "I am laying bricks.", next one said, "I am building a church." and the third one answered, "I am building the house of God." Here she illustrated the difference between:
+    - having a job: I view my job as just a necessity of life, much like breathing or sleeping
+    - having a career: I view my job primarily as a stepping stone to other jobs
+    - having a calling: My work is one of the most important things in my life
+- It is never too late to begin cultivating a sense of purpose and she has three recommendations for that:
+    - Reflecting on how the work you're already doing can make a positive contribution to society.
+    - Thinking about how, in small but meaningful ways, you can change your current work to enhance its connection to your core values.
+    - Finding inspiration in a purposeful role model
 
 ### Chapter 9: Growth Mindset/Hope
 - Growth Mindset -> Optimistic Self-talk -> Perseverance in the face of adversity
