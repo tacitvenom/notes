@@ -71,16 +71,50 @@
     - Thinking about how, in small but meaningful ways, you can change your current work to enhance its connection to your core values.
     - Finding inspiration in a purposeful role model
 
-### Chapter 9: Growth Mindset/Hope
+### Chapter 9: Hope
+- A lot of our negative self-talk is a self-fulfilling prophesy - stemming from a sense of inability rather than a sense of resolve.
+- The same way psychologists coined and demonstrated the term "learned helplessness", "learned optimism" is also a well-studied phenomenon. Gritty people explain setbacks optimistically.
+- Growth Mindset - believing that the skills and intelligence can be learned and are not set in stone along with looking at challenges as an opportunity to learn and grow.
+- Learning that we have a sense of control and agency, a feeling that we can change something with our actions tends to increase our tendency to not give up easily.
+- Experiencing trauma without control can be debilitating, no doubt about that. Some people may cruise through life withut major setbacks, basically never learning to get back up after falling down.
+- But not all negative negative experiences are traumatic events for us, and we can build a muscle for changing our subjective interpretation of an event.
 - Growth Mindset -> Optimistic Self-talk -> Perseverance in the face of adversity
+- Suggestions to inculcate hope:
+    - Update your beliefs about intelligence and talent
+    - Practice optimistic self-talk
+    - Ask for a helping hand
 
 ## Part 3: Growing Grit from the outside in
 ### Chapter 10: Parenting for Grit
-- Kids need love as well as limits, they are not always the best judge of what they want or what is good for them.
+- Kids need love as well as limits, they are not always the best judge of what they want or what is good for them. There is no contraction between supportive parenting and demanding parenting. It is however important to be "child-centered".
+- It is also important to note that the message the parents aim to deliver matters less than the message the children receive.
+- Following a checklist for wise parenting. How many of the following statements would your child affirm without hesitation? The italizes items are "reverse-coded".
+    ##### Supportive: Warm
+    - I can count on my parents to help me out if I have a problem.
+    - My parents spend time just talking to me.
+    - My parents and I do things that are fun together.
+    - _My parents don't really like me to tell them my troubles._
+    - _My parents hardly ever praise me for doing well._
+    ##### Supportive: Respectful
+    - My parents believe that I have a right to my own point of view.
+    - _My parents tell me that their ideas are correct and that I shouldn't question them._
+    - My parents respect my privacy.
+    - My parents give me a lot of freedom.
+    - _My parents make most of the decisions about what I do._
+    ##### Demanding
+    - My parents really expect me to follow family rules.
+    - _My parents really let me get away with things._
+    - My parents point out ways I could do better.
+    - _When I do something wrong, my parents don't punish me._
+    - My parents expect me to do my best even when it's hard.
+- Growing up with support, respect, and high standardds encourage children to emulate their parents. And a lot of gritty people have said that their parents are the most admirable and influential people in their lives. It is not just parents, but also relatives, teachers, siblings, etc.
+
 
 ### Chapter 11: The playing fields of grit or inculcating grit
-- Extra-curricular activities
+- Extra-curricular activities from a young age. The kids learn from their coaches to "follow through".
+- Not all parents can afford to send their kids to piano/ballet classes unfortunately though.
 - You can quit, but you can't quit on a bad day.
 
 ### Chapter 12: A culture of Grit
+- If you want to be grittier, find a gritty culture and join it. If you're a leader, and you want the people in your organization to be grittier, create a gritty culture.
 - Example of J. P. Morgan Chase
